@@ -1,3 +1,4 @@
+fetchpull
 helllo git
 hi nanba
 chikkoamnda
